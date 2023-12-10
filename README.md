@@ -55,10 +55,10 @@ The source files in Amazon S3 can have different formats, including comma-separa
 
 ### Target Architecture
 
-![Alt text](626aa365-e6e6-4874-a873-1c71adbe5306.png)
+![Alt text](https://github.com/gaurangkudale/AWS-Data-Pipeline/blob/main-gk/aws%20data-pipeline.png)
 
 ### Data flow
-![Alt text](<AWS Data Pipeline.drawio.png>)
+[![Alt text](<AWS Data Pipeline.drawio.png>)](https://github.com/gaurangkudale/AWS-Data-Pipeline/blob/main-gk/AWS%20Data%20Pipeline.drawio.png)
 ## Tools for building an ETL pipeline from Amazon S3 to Amazon Redshift using AWS Glue
 
 - Amazon S3 – Amazon Simple Storage Service (Amazon S3) is a highly scalable object storage service. Amazon S3 can be used for a wide range of storage solutions, including websites, mobile applications, backups, and data lakes.
