@@ -53,7 +53,7 @@ The source files in Amazon S3 can have different formats, including comma-separa
 - AWS S3
 - Amazon Redshift.
 
-### Target Architecture
+### Architecture
 
 ![Alt text](https://github.com/gaurangkudale/AWS-Data-Pipeline/blob/main-gk/aws%20data-pipeline.png)
 
